@@ -1,2 +1,2 @@
-# 100DaysOfCode-Day-46-47-Project-Amazon-Automated-Price-Tracker
+# 100DaysOfCode-Day-46-47-Project-Daraz-Automated-Price-Tracker
  
